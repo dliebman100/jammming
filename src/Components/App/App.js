@@ -6,7 +6,7 @@ class App extends React.Component {
     return (
       <div>
         <h1>
-          Not<span className="highlight"> Spot</span>ify
+          Ja<span className="highlight">mmm</span>ing
         </h1>
         <div className="App">
           {/* <SearchBar /> */}
