@@ -23,7 +23,7 @@ class App extends React.Component {
           id: 4,
         },
         {
-          name: "playlistName21",
+          name: "playlistName2",
           artist: "playlistArtist2",
           album: "playlistAlbum2",
           id: 5,
